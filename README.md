@@ -1,6 +1,6 @@
 ### 👋 EYYYY! What's good?
 
-Hey, I'm Kristian, but you can call me K. If you're interested in blockchain development, we should connect! Drop by and say hi: kmquirapas@gmail.com
+Hey, I'm Kristian, but you can call me K. If you're interested in blockchain development, we should connect! Send me DM on twitter!
 
 #### Recent Pursuits
 
