@@ -7,6 +7,10 @@ Hey, I'm Kristian, but you can call me K. If you're interested in blockchain dev
 - Full Stack Blockchain Development
 - Working on a Decentralized Application for the Esports industry
 
+### Education
+
+- Graduating Computer Science student from University of the Philippines Diliman
+
 #### Fun facts
 
 > Neo(VIM) is life (Thank you Neovim team!)
