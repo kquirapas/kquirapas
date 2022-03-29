@@ -9,6 +9,14 @@ Hey, I'm Kristian, but you can call me K. If you're interested in blockchain dev
 
 #### Fun facts
 
-> Neo(VIM) is life
+> Neo(VIM) is life (Thank you Neovim team!)
 
-> I'd rather be the stupidest person in the room. It's an indicator that I'm in the right place for growth and learning.
+#### Guiding Principles
+
+> I'd rather be the stupid one in the room. I can be certain that I'll come out wiser.
+
+> Easy money sounds nice, but I'd rather have wealth-building as a part of my being and not just a function of luck.
+
+> I can learn anything. I can master anything. I just have to give it enough time and effort.
+
+> Wide in perspective but deep in skill.
