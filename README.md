@@ -26,3 +26,5 @@ Hey, I'm Kristian, but you can call me K. If you're interested in blockchain dev
 > I can learn anything. I can master anything. I just have to give it enough time and effort.
 
 > If I can't see the solution, then clearly there is some learning to be done.
+
+> Embrace reality and deal with it. - Ray Dalio
