@@ -1,11 +1,12 @@
 ### 👋 EYYYY! What's good?
 
-Hey, I'm Kristian, but you can call me K. If you're interested in blockchain development, we should connect! Send me DM on twitter!
+Hey, I'm Kristian, but you can call me K. If you're looking for a blockchain engineer who's interested in blockchain security and cross-chain bridging, I'm your guy.
 
 #### Recent Pursuits
 
-- Full Stack Blockchain Development
-- Working on a Decentralized Application for the Esports industry
+- Full Stack Blockchain Engineer
+- Blockchain Security (Reports and Audits)
+- Cross-Chain Support
 
 ### Education
 
