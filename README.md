@@ -1,6 +1,6 @@
 ### 👋 EYYYY! What's good?
 
-Hey, I'm <span style="color: #53FFC1; font-weight: bold">Kristian</span>, but you can call me K. If you're looking for a blockchain engineer who's interested in blockchain security and cross-chain bridging, I'm your guy.
+Hey, I'm Kristian, but you can call me K. If you're looking for a blockchain engineer who's interested in blockchain security and cross-chain bridging, I'm your guy.
 
 #### Recent Pursuits
 
