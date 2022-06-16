@@ -5,12 +5,13 @@ Hey, I'm Kristian, but you can call me K. If you're looking for a blockchain eng
 #### Recent Pursuits
 
 - Full Stack Blockchain Engineer
-- Blockchain Security (Reports and Audits)
+- Blockchain Security Maximalist
+- Backend / Devops Enthusiast
 - Cross-Chain Support
 
 ### Education
 
-- Graduating Computer Science student from University of the Philippines Diliman
+- Computer Science student from University of the Philippines Diliman
 
 #### Fun facts
 
@@ -29,3 +30,5 @@ Hey, I'm Kristian, but you can call me K. If you're looking for a blockchain eng
 > If I can't see the solution, then clearly there is some learning to be done.
 
 > Embrace reality and deal with it. - Ray Dalio
+
+> You are the color of your thoughts. - Marcus Aurelius
