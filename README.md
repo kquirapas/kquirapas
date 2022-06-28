@@ -1,17 +1,26 @@
-### 👋 EYYYY! What's good?
+### 👋 EYYYY! I code in Rust.
 
-Hey, I'm Kristian, but you can call me K. If you're looking for a blockchain engineer who's interested in blockchain security and cross-chain bridging, I'm your guy.
+Hey, I'm K. If you're looking for a blockchain engineer for Rust-based chains I'm your guy.
 
 #### Recent Pursuits
 
 - Full Stack Blockchain Engineer
+	- Solana
+	- NEAR
+	- Polkadot
+	- Substrate
 - Blockchain Security Maximalist
-- Backend / Devops Enthusiast
-- Cross-Chain Support
+- Backend / Devops as a hobby
+- Cross-Chain Support as an interest
 
-### Education
+#### Education
 
-- Computer Science student from University of the Philippines Diliman
+- Senior Computer Science student from University of the Philippines Diliman
+
+#### Experience
+
+- Freelance Blockchain Developer (2022 - Present)
+- Freelance Web Developer since (2015 - 2022)
 
 #### Fun facts
 
