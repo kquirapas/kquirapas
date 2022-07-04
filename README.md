@@ -2,15 +2,16 @@
 
 Hey, I'm K. If you're looking for a blockchain engineer for Rust-based chains I'm your guy.
 
+### Tech Stack
+
+<div align="center">
+</div>
+
 #### Recent Pursuits
 
 - Full Stack Blockchain Engineer
 	- Solana
-	- NEAR
-	- Polkadot
-	- Substrate
 - Blockchain Security Maximalist
-- Backend / Devops as a hobby
 - Cross-Chain Support as an interest
 
 #### Education
@@ -25,19 +26,3 @@ Hey, I'm K. If you're looking for a blockchain engineer for Rust-based chains I'
 #### Fun facts
 
 > Neo(VIM) is life (Thank you Neovim team!)
-
-#### Guiding Principles
-
-> Wide in perspective but deep in skill.
-
-> I'd rather be the stupid one in the room. I can be certain that I'll come out wiser.
-
-> Easy money sounds nice, but I'd rather have wealth-building as a part of my being and not just a function of luck.
-
-> I can learn anything. I can master anything. I just have to give it enough time and effort.
-
-> If I can't see the solution, then clearly there is some learning to be done.
-
-> Embrace reality and deal with it. - Ray Dalio
-
-> You are the color of your thoughts. - Marcus Aurelius
