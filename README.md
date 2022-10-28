@@ -10,7 +10,8 @@ Hey, I'm K. If you're looking for a blockchain engineer for Rust-based chains I'
 #### Recent Pursuits
 
 - Full Stack Blockchain Engineer
-	- Solana
+	- Polygon, Ethereum (EVM)
+	- Solana, NEAR, Aptos, Cosmos, Stark
 - Blockchain Security Maximalist
 - Cross-Chain Support as an interest
 
