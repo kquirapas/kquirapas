@@ -1,19 +1,14 @@
-### 👋 EYYYY! I code in Rust.
+### 👋 Building shit that matter with Web, Mobile, and Blockchain technology
 
-Hey, I'm K. If you're looking for a blockchain engineer or a Rust engineer I'm your guy.
+Hey, I'm Kristian. If you're looking for a blockchain engineer or a Rust engineer I'm your guy.
 
+#### Currently working at
 
-#### Recent Pursuits
+- [Protocol Labs](https://protocol.ai/)
+- [Vulcanic Labs](https://vulcaniclabs.com/)
+- [hawak](https://www.hawak.app/)
 
-- Fullstack Blockchain Engineer
-	- Polygon, Ethereum (EVM)
-	- Solana, NEAR, Aptos, Cosmos, Stark
-- Blockchain Security Maximalist
-- Cross-Chain Support as an interest
-
-#### Experience
-
-- thirdweb - Developer Advocate (2022 - Present)
-- Tech Lead - Maru Finance (2022 - Present)
-- Freelance - Blockchain Developer (2022 - Present)
-- Freelance - Web Developer since (2015 - 2022)
+#### Formerly worked at
+- (thirdweb)[https://thirdweb.com/]
+- (Alchemy)[https://www.alchemy.com/]
+- (SkidsDAO)[https://skidsdao.xyz/]
