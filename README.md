@@ -10,7 +10,7 @@ Hey, I'm Kristian. Nice to see you here!
 
 #### Former Work
 - [thirdweb](https://thirdweb.com/)
-- [Alchemy]_https://www.alchemy.com/_
+- [Alchemy](https://www.alchemy.com/)
 - [SkidsDAO](https://skidsdao.xyz/)
 
 #### Building
