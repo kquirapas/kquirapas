@@ -4,7 +4,6 @@ Hey, I'm Kristian. Nice to see you here!
 
 #### Current Work
 
-- [Protocol Labs](https://protocol.ai/)
 - [Vulcanic Labs](https://vulcaniclabs.com/)
 - [hawak](https://www.hawak.app/)
 
