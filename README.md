@@ -1,6 +1,6 @@
-### 👋 Building shit that matter with Web, Mobile, and Blockchain technology
+### 👋 Pushing myself further than Git can push
 
-Hey, I'm Kristian. Nice to see you here!
+I’m an engineer with a mission to drive breakthroughs in humanity, by serving the world with one technological innovation at a time.
 
 #### Current Work
 
