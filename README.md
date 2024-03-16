@@ -72,7 +72,7 @@ let favorite_language = String::from("Rust programming language");
 enum WantToWorkOn {
   Blockchain,
   VirtualMachines,
-  DistributedSsytems,
+  DistributedSystems,
   BareMetalInfra,
 }
 ```
