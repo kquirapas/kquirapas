@@ -1,5 +1,12 @@
 # Hey I'm Kristian
 
+```rust
+/*
+ * @dev I'm on a mission to drive breakthroughs in humanity
+ * by serving the world with one technological innovation at a time.
+ */
+```
+
 ## Tech Stack
 ```rust
 enum Languages {
@@ -35,7 +42,9 @@ enum Web3 {
 ## Previous Work
 ```rust
 enum Experience {
+  // https://blog.thirdweb.com/author/kristianquirapas/
   Thirdweb,
+  // https://docs.alchemy.com/docs/how-to-build-a-solana-nft-collection
   Alchemy,
   Vulcanic Labs
 }
@@ -44,7 +53,8 @@ enum Experience {
 ## Research Interests
 ```rust
 enum Researching {
-  Deep Web3 Security,
+  DeepWeb3Security,
+  WASM,
   MEVs,
   Cryptography,
   ZeroKnowledge,
