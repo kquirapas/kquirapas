@@ -1,22 +1,68 @@
-### 👋 Hey I'm Kristian, a Rust Maxi who loves Web3/Blockchain technology.
+# Hey I'm Kristian
 
-I’m an engineer with a mission to drive breakthroughs in humanity, by serving the world with one technological innovation at a time.
+## Tech Stack
+```rust
+enum Languages {
+  Rust,
+  Go,
+  Typescript
+}
 
-#### Aspiring to Work At
+enum Frontend {
+  ReactJS,
+  NextJS,
+  YewRS
+}
 
-- [Paradigm](https://www.paradigm.xyz/)
-- [Coinbase](https://www.coinbase.com/)
+enum Backend {
+  ActixWeb,
+  NodeJS,
+  DieselORM
+}
 
-#### Current Work
+enum Database {
+  Postgres,
+  MongoDB
+}
 
-- [Vulcanic Labs](https://vulcaniclabs.com/)
+enum Web3 {
+  Ethereum,
+  Solana,
+  ICP
+}
+```
 
-#### Former Work
-- [thirdweb](https://thirdweb.com/)
-- [Alchemy](https://www.alchemy.com/)
-- [SkidsDAO](https://skidsdao.xyz/)
+## Previous Work
+```rust
+enum Experience {
+  Thirdweb,
+  Alchemy,
+  Vulcanic Labs
+}
+```
 
-#### Building
-- [Web3 Philippines](https://bio.web3philippines.org/)
-- [Solana Philippines](https://solanaphilippines.com/)
-- [Open Source Software Philippines](https://github.com/OSSPhilippines)
+## Research Interests
+```rust
+enum Researching {
+  Deep Web3 Security,
+  MEVs,
+  Cryptography,
+  ZeroKnowledge,
+  DistributedVM,
+  Snarks,
+  PhygitalExperiences,
+  BlockchainPlusAI
+}
+```
+
+## Extras
+```rust
+let favorite_language = String::from("Rust programming language");
+
+enum WantToWorkOn {
+  Blockchain,
+  VirtualMachines,
+  DistributedSsytems,
+  BareMetalInfra,
+}
+```
