@@ -53,13 +53,14 @@ enum Experience {
 ## Research Interests
 ```rust
 enum Researching {
-  DeepWeb3Security,
   WASM,
   MEVs,
+  DePIN,
   Cryptography,
   ZeroKnowledge,
   DistributedVM,
   Snarks,
+  Web3Security,
   PhygitalExperiences,
   BlockchainPlusAI
 }
