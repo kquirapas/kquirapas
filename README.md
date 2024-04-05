@@ -10,7 +10,7 @@
 ```
 
 ```rust
-let current_focus = "engineering scalable, crash/byzantine fault-tolerant, secure, open, and distributed systems with the Rust programming language.".to_string();
+let current_focus = "engineering scalable, crash/byzantine fault-tolerant, secure, open, and distributed systems with the Rust programming language".to_string();
 ```
 
 ## Tech Stack
