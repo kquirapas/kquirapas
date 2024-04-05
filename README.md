@@ -25,11 +25,11 @@ enum Languages {
 enum Frontend {
   ReactJS,
   NextJS,
-  axum-rs + askama + css (lol)
+  AskamaRS
 }
 
 enum Backend {
-  axum-rs + sqlx,
+  AxumRS,
   NodeJS,
 }
 
