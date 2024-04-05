@@ -1,87 +1,27 @@
-# Hey I'm Kristian
-
-```rust
-/*
- * @dev I'm on a mission to drive breakthroughs in humanity
- * by serving the world with one technological innovation at a time.
- *
- * I quantify my impact by pursuing at least 1B USD worth of tech shipped to the world
- */
+# Software Engineering Details
+```json
+{
+    "languages": ["rust", "go", "typescript", "solidity"],
+    "frontend": ["reactjs", "nextjs", "axum+askama"],
+    "backend": ["axum", "tokio", "nodejs", "actix-web"],
+    "database": ["postgres", "mongodb", "sqlite"],
+}
 ```
-
-```rust
-let current_focus = "engineering scalable, crash/byzantine fault-tolerant, secure, open, and distributed systems with the Rust programming language".to_string();
-```
-
-## Tech Stack
-```rust
-enum Languages {
-  Rust,
-  Go,
-  Typescript,
-  Solidity
-}
-
-enum Frontend {
-  ReactJS,
-  NextJS,
-  AskamaRS
-}
-
-enum Backend {
-  AxumRS,
-  NodeJS,
-}
-
-enum Database {
-  Postgres,
-  MongoDB,
-  SQLite
-}
-
-enum Web3 {
-  Ethereum,
-  Solana,
-  ICP,
-  NEAR
+# Experience
+```json
+{
+    "thirdweb": "https://blog.thirdweb.com/author/kristianquirapas",
+    "alchemy": "https://docs.alchemy.com/docs/how-to-build-a-solana-nft-collection",
+    "vulcanicLabs": "https://vulcaniclabs.com",
+    "kuzco": "https://docs.kuzco.xyz/"
 }
 ```
 
-## Previous Work
-```rust
-enum Experience {
-  // https://blog.thirdweb.com/author/kristianquirapas/
-  Thirdweb,
-  // https://docs.alchemy.com/docs/how-to-build-a-solana-nft-collection
-  Alchemy,
-  Vulcanic Labs
-}
-```
-
-## Research Interests
-```rust
-enum Researching {
-  WASM,
-  MEVs,
-  DePIN,
-  Cryptography,
-  ZeroKnowledge,
-  DistributedVM,
-  Snarks,
-  Web3Security,
-  PhygitalExperiences,
-  BlockchainPlusAI
-}
-```
-
-## Extras
-```rust
-let favorite_language = String::from("Rust programming language");
-
-enum WantToWorkOn {
-  Blockchain,
-  VirtualMachines,
-  DistributedSystems,
-  BareMetalInfra,
+# Extras
+```json
+{
+    "web3": ["bitcoin", "ethereum", "solana", "icp", "near"],
+    "researching": ["wasm", "mevs", "depin", "distributed systems"],
+    "wantToWorkOn": ["blockchain", "vm", "infra"],
 }
 ```
