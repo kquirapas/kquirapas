@@ -4,7 +4,13 @@
 /*
  * @dev I'm on a mission to drive breakthroughs in humanity
  * by serving the world with one technological innovation at a time.
+ *
+ * I quantify my impact by pursuing at least 1B USD worth of tech shipped to the world
  */
+```
+
+```rust
+let current_focus = "engineering scalable, crash/byzantine fault-tolerant, secure, open, and distributed systems with the Rust programming language.".to_string();
 ```
 
 ## Tech Stack
@@ -12,30 +18,32 @@
 enum Languages {
   Rust,
   Go,
-  Typescript
+  Typescript,
+  Solidity
 }
 
 enum Frontend {
   ReactJS,
   NextJS,
-  YewRS
+  axum-rs + askama + css (lol)
 }
 
 enum Backend {
-  ActixWeb,
+  axum-rs + sqlx,
   NodeJS,
-  DieselORM
 }
 
 enum Database {
   Postgres,
-  MongoDB
+  MongoDB,
+  SQLite
 }
 
 enum Web3 {
   Ethereum,
   Solana,
-  ICP
+  ICP,
+  NEAR
 }
 ```
 
