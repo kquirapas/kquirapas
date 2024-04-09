@@ -12,7 +12,7 @@ I'm in the abyss of designing and engineering scalable, crash/byzantine fault-to
     "languages": ["rust", "go", "typescript", "solidity"],
     "frontend": ["reactjs", "nextjs", "axum+askama"],
     "backend": ["axum", "tokio", "nodejs", "actix-web"],
-    "database": ["postgres", "mongodb", "sqlite"],
+    "database": ["sqlx", "postgres", "mongodb", "sqlite", "rqlite"],
 }
 ```
 # Experience
