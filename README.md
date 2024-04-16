@@ -1,10 +1,10 @@
-# Mission
-I'm on a mission to drive breakthroughs in humanity by serving the world with one technological innovation at a time.
+# 👴 Hey I'm Kristian, I build distributed and decentralized systems in Rust
 
-I'm quantifying the achievement of this mission with a minimum 1 Billion USD worth of tech shipped to the world for good.
+# Mission
+I'm on a mission to drive breakthroughs in humanity by serving the world with one technological innovation at a time quantified by a **minimum of 1 Billion USD worth of tech shipped to the world for good**.
 
 # My Current Focus
-I'm in the abyss of designing and engineering scalable, crash/byzantine fault-tolerant, open, secure, and distributed systems with the `Rust` programming language.
+I'm building toward a vision of a "world computer" built on top of a democratic web, where we render the resources of the world to solve each other's problems.
 
 # Software Engineering Details
 ```json
