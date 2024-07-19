@@ -18,7 +18,7 @@ Presently: `Local-First Systems`, `DePIN`, `Distributed Systems`, `P2P Networkin
 }
 ```
 
-# Fun recent builds you can assess
+# Fun Recent Builds You Can Assess
 [raydium-snipe-engine](https://github.com/kquirapas/raydium-snipe-engine) - a high-performance raydium swap buy/sell engine in Rust
 
 [sqlite-block-factory](https://github.com/kquirapas/sqlite-block-factory) - an axum+tokio+sqlite block authoring mechanism in Rust
