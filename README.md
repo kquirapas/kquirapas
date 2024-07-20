@@ -19,11 +19,10 @@ Presently: `Local-First Systems`, `DePIN`, `Distributed Systems`, `P2P Networkin
 ```
 
 # Fun Recent Builds You Can Assess
-[raydium-snipe-engine](https://github.com/kquirapas/raydium-snipe-engine) - a high-performance raydium swap buy/sell engine in Rust
 
 [sqlite-block-factory](https://github.com/kquirapas/sqlite-block-factory) - an axum+tokio+sqlite block authoring mechanism in Rust
 
-[kristian-solana-program-library](https://github.com/kquirapas/kristian-solana-program-library) - a collection of Native Solana programs I have used in the past and are not private
+[merkle tree whitelist-gated token sale](https://github.com/ardata-tech/solana-olympics-2024) - a merkle tree inclusion proof program used for whitelisting Solana token sales
 
 [wasm-next-starter](https://github.com/kquirapas/wasm-next-starter) - a nextjs starter that came out of my own personal research into WASM-enabled Solana DApps in Rust
 
