@@ -1,4 +1,4 @@
-# **Shaping the human experience with web-scale, distributed, and decentralized systems.**
+`# **Shaping the human experience with web-scale, distributed, and decentralized systems.**
 
 # Mission 🦀
 I'm on a mission to drive breakthroughs in humanity by serving the world with one technological innovation at a time quantified by a **minimum of 1 Billion USD worth of tech shipped to the world for good**.
@@ -19,6 +19,10 @@ Presently: `Local-First Systems`, `DePIN`, `Distributed Systems`, `P2P Networkin
 ```
 
 # Fun Recent Builds You Can Assess
+
+[1.5M$ held and managed EVM pledge DApp and contracts](https://github.com/Apex-Watch-Club)
+
+[phygital city fair enabled with EVM smart contracts](https://github.com/Blockchain-City-Fair-by-Vulcanic-Labs)
 
 [sqlite-block-factory](https://github.com/kquirapas/sqlite-block-factory) - an axum+tokio+sqlite block authoring mechanism in Rust
 
