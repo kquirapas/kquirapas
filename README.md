@@ -1,4 +1,4 @@
-`# **Shaping the human experience with web-scale, distributed, and decentralized systems.**
+# **Shaping the human experience with web-scale, distributed, and decentralized systems.**
 
 # Mission 🦀
 I'm on a mission to drive breakthroughs in humanity by serving the world with one technological innovation at a time quantified by a **minimum of 1 Billion USD worth of tech shipped to the world for good**.
