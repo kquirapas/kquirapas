@@ -9,6 +9,11 @@ I'm building toward a vision of a "world computer" built on top of a democratic 
 Presently: `Local-First Systems`, `DePIN`, `Distributed Systems`, `P2P Networking`, and `Node architecture`.
 
 # Software Engineering Details 🦀
+- **16 years** of tech
+- **11 years** professionally
+- **4 years** of Rust 🦀
+- **3.5 years** of Solana
+
 ```json
 {
     "languages": ["rust", "go", "typescript", "solidity"],
