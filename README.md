@@ -13,6 +13,7 @@ Presently: `Local-First Systems`, `DePIN`, `Distributed Systems`, `P2P Networkin
 - **11 years** professionally
 - **4 years** of Rust 🦀
 - **3.5 years** of Solana
+- **3 years** of Ethereum (EVM)
 
 ```json
 {
