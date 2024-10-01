@@ -26,9 +26,13 @@ Presently: `Local-First Systems`, `DePIN`, `Distributed Systems`, `P2P Networkin
 
 # Fun Recent Builds You Can Assess
 
-[1.5M$ held and managed EVM pledge DApp and contracts](https://github.com/Apex-Watch-Club)
+[mini-event-bus](https://github.com/kquirapas/mini-event-bus) - an in-memory and concurrent event bus for event-driven code 
 
-[phygital city fair enabled with EVM smart contracts](https://github.com/Blockchain-City-Fair-by-Vulcanic-Labs)
+[solana-hexagonal-poh](https://github.com/kquirapas/solana-hexagonal-poh) - light solana node implementaion with banking, rpc, and proof of history
+
+[apex-watch-club](https://github.com/Apex-Watch-Club) - a $1.5M dollars pledged dapp for a luxury watch business
+
+[phygital-city-fair](https://github.com/Blockchain-City-Fair-by-Vulcanic-Labs) - a blockchain-enabled regional conference for blockchain
 
 [sqlite-block-factory](https://github.com/kquirapas/sqlite-block-factory) - an axum+tokio+sqlite block authoring mechanism in Rust
 
