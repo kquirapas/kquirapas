@@ -9,11 +9,11 @@ I'm building toward a vision of a "world computer" built on top of a democratic 
 Presently: `Local-First Systems`, `DePIN`, `Distributed Systems`, `P2P Networking`, `Node Architecture`. and `Compute Over Data`
 
 # Software Engineering Details 🦀
-- **16 years** of tech
-- **11 years** professionally
+- **17 years** of tech
+- **12 years** professionally
 - **4 years** of Rust 🦀
 - **4 years** of Solana
-- **3 years** of Ethereum (EVM)
+- **4 years** of Ethereum (EVM)
 
 ```json
 {
