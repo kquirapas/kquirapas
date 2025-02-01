@@ -30,6 +30,8 @@ Presently: `Local-First Systems`, `DePIN`, `Distributed Systems`, `P2P Networkin
 
 [solana-hexagonal-poh](https://github.com/kquirapas/solana-hexagonal-poh) - light solana node implementaion with banking, rpc, and proof of history
 
+[native-solana-todo](https://github.com/kquirapas/native-solana-todo) - recently created a native solana programming reference repo for my personal blockchain engineering trainees
+
 [apex-watch-club](https://github.com/Apex-Watch-Club) - a $1.5M dollars pledged dapp for a luxury watch business
 
 [phygital-city-fair](https://github.com/Blockchain-City-Fair-by-Vulcanic-Labs) - a blockchain-enabled regional conference for blockchain
