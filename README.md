@@ -6,7 +6,7 @@ I'm on a mission to drive breakthroughs in humanity by serving the world with on
 # My Current Focus 🦀
 I'm building toward a vision of a "world computer" built on top of a democratic web, where we render the world's resources to solve each other's problems. 
 
-Presently: `Local-First Systems`, `DePIN`, `Distributed Systems`, `P2P Networking`, `Node Architecture`. and `Compute Over Data`
+Presently: `Local-First Systems`, `Rollups`, `Layer2`, `DePIN`, `Distributed Systems`, `P2P Networking`, `Node Architecture`. and `Compute Over Data`
 
 # Software Engineering Details 🦀
 - **17 years** of tech
@@ -19,7 +19,7 @@ Presently: `Local-First Systems`, `DePIN`, `Distributed Systems`, `P2P Networkin
 {
     "languages": ["rust", "go", "typescript", "solidity"],
     "frontend": ["reactjs", "nextjs", "axum+askama+htmx"],
-    "backend": ["axum", "tokio", "nodejs"],
+    "backend": ["axum", "tokio", "nodejs", "hono"],
     "database": ["sqlx", "postgres", "mongodb", "sqlite", "rocksdb"],
 }
 ```
