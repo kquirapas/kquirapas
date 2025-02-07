@@ -3,9 +3,9 @@
 <center>
 <table style="border: 0;">
 <tr style="border: 0;">
-<td style="border: 0;"><img height="60px" alt="Only Possible On Solana" src="opos-color.svg" /></td>
-<td style="border: 0;"><img height="60px" alt="Powered By Solana" src="stacked-color.svg" /></td>
-<td style="border: 0;"><img height="60px" alt="I Love Solana" src="ils-brand.svg" /></td>
+<td style="border: 0;"><img height="50px" alt="Only Possible On Solana" src="opos-color.svg" /></td>
+<td style="border: 0;"><img height="50px" alt="Powered By Solana" src="stacked-color.svg" /></td>
+<td style="border: 0;"><img height="50px" alt="I Love Solana" src="ils-brand.svg" /></td>
 </tr>
 </table>
 </center>
