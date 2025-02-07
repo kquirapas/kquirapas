@@ -1,5 +1,11 @@
 # **Shaping the human experience with web-scale, distributed, and decentralized systems.**
 
+<center>
+<img height="60px" alt="Only Possible On Solana" src="opos-color.svg" />
+<img height="60px" alt="Powered By Solana" src="stacked-color.svg" />
+<img height="60px" alt="I Love Solana" src="ils-brand.svg" />
+</center>
+
 # Mission 🦀
 I'm on a mission to drive breakthroughs in humanity by serving the world with one technological innovation at a time quantified by a **minimum of 1 Billion USD worth of tech shipped to the world for good**.
 
