@@ -14,7 +14,7 @@
 I'm on a mission to drive breakthroughs in humanity by serving the world with one technological innovation at a time, quantified by a **minimum of 1 Billion USD worth of tech shipped to the world for good**.
 
 # My Current Focus 🦀
-I am heavily involved in working on network performance bottlenecks, building data pipelines, and solving complex data problems in decentralized infrastructure and protocols.
+I am heavily involved in working with network performance bottlenecks, building data pipelines, and solving complex data problems in decentralized infrastructure and protocols.
 
 Presently: `Local-First Systems`, `Rollups`, `Layer2`, `DePIN`, `Distributed Systems`, `P2P Networking`, `Node Architecture`. and `Compute Over Data`
 
