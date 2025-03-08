@@ -16,9 +16,6 @@ I'm on a mission to drive breakthroughs in humanity by serving the world with on
 # My Current Focus 🦀
 I'm heavily invested in working with network performance bottlenecks, building data pipelines, and solving complex data problems in decentralized infrastructure and protocols.
 
-Some but not limited to:
-- Creating architecture for multi-tiered, peer-to-peer (P2P) Node 
-
 Presently: `Local-First Systems`, `Rollups`, `Layer2`, `DePIN`, `Distributed Systems`, `P2P Networking`, `Node Architecture`. and `Compute Over Data`
 
 # Software Engineering Details 🦀
