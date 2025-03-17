@@ -1,4 +1,6 @@
-# **Shaping the human experience with web-scale, distributed, and decentralized systems.**
+# **Shaping the human experience with web-scale, distributed, and decentralized systems 🦀**
+
+I'm on a mission to drive breakthroughs in humanity by serving the world with one technological innovation at a time, quantified by a **minimum of 1 Billion USD worth of tech shipped to the world for good**.
 
 <center>
 <table style="border: 0;">
@@ -10,17 +12,14 @@
 </table>
 </center>
 
-# Mission 🦀
-I'm on a mission to drive breakthroughs in humanity by serving the world with one technological innovation at a time, quantified by a **minimum of 1 Billion USD worth of tech shipped to the world for good**.
-
 # My Current Focus 🦀
-I am heavily involved in working with network performance bottlenecks, building data pipelines, and solving complex data problems in decentralized infrastructure and protocols.
+I am heavily involved in working with network performance bottlenecks, building blockchain data pipelines, and solving complex data problems in decentralized infrastructure and protocols.
 
 Presently: `Local-First Systems`, `Rollups`, `Layer2`, `DePIN`, `Distributed Systems`, `P2P Networking`, `Node Architecture`. and `Compute Over Data`
 
 # Software Engineering Details 🦀
 - **17 years** of tech
-- **12 years** professionally
+- **13 years** professionally
 - **4 years** of Rust 🦀
 - **4 years** of Solana
 - **4 years** of Ethereum (EVM)
