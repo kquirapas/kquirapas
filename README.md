@@ -35,6 +35,8 @@ Presently: `Local-First Systems`, `Rollups`, `Layer2`, `DePIN`, `Distributed Sys
 
 # Fun Recent Builds You Can Assess
 
+[mobius-data-pipeline](https://github.com/mirrorworld-universe/mobius-data-pipeline) - a protocol-level data pipeline for enabling multiple teams to work with Sonic mainnet data
+
 [mini-event-bus](https://github.com/kquirapas/mini-event-bus) - an in-memory and concurrent event bus for event-driven code 
 
 [solana-hexagonal-poh](https://github.com/kquirapas/solana-hexagonal-poh) - light solana node implementaion with banking, rpc, and proof of history
