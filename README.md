@@ -15,7 +15,7 @@ I'm on a mission to drive breakthroughs in humanity by serving the world with on
 # My Current Focus 🦀
 I am heavily involved in working with network performance bottlenecks, building blockchain data pipelines, and solving complex data problems in decentralized infrastructure and protocols.
 
-Presently: `Local-First Systems`, `Rollups`, `Layer2`, `DePIN`, `Distributed Systems`, `P2P Networking`, `Node Architecture`. and `Compute Over Data`
+Presently: `Protocol Engineering`, `Solana`, `SVM`, `Rollups`, `Layer2`, `Blockchain Indexing`, `DePIN`, `Distributed Systems`, `P2P Networking`, `Node Architecture`, `Local-First Systems`, and `Compute Over Data`
 
 # Software Engineering Details 🦀
 - **17 years** of tech
